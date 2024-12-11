@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 💼 I'm currently working on: **Puzzle x Gacha Mobile Game in Flutter**
 - 🌱 I'm currently learning: **OpenCV**
 - 💬 Ask me about: **My take on the ideal frontend framework**
-- ⚡ Fun fact: **🎢 I make music 🎶**
+- ⚡ Fun fact: ** I make music 🎶**
 - 📂 Portfolio: **<a href="https://taef.ca" target="_blank">https://taef.ca</a>**
 
  **<h3 align="center">Skills</h3>**
