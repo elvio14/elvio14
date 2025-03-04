@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Jigsaw Puzzle x Gacha Mobile Game in Flutter**
-- 🌱 I'm currently learning: **OpenCV**
-- 💬 Ask me about: **Specialty Coffee**
-- ⚡ Fun fact: **I make music 🎶**
-- 📂 Portfolio: **<a href="https://taef.ca" target="_blank">https://taef.ca</a>**
+- 💼 I'm currently working on: **Jigsaw Puzzle x Gacha Mobile Game in Flutter 🧩**
+- 🌱 I'm currently learning: **Power BI 📊**
+- 💬 Ask me about: **Specialty Coffee ☕**
+- ⚡ Fun fact: **I like reading philosophy books📖**
+- 📂 Portfolio: **<a href="https://taef.ca" target="_blank">https://taef.ca</a>👨‍💻**
 
  **<h3 align="center">Skills</h3>**
 
