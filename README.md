@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"></a> <a href="https://www.instagram.com/andrewelvio" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/Andrew Febrian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="andrew.elvio14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="center">🚀 I'm a second-year Computer Science student and a versatile programming generalist. I enjoy diving into frontend, backend, and OOP. I'm always eager to learn and tackle challenges across various domains of software development. Currently, I'm seeking a Summer 2025 Co-op opportunity to contribute my skills and grow through real-world experiences.</h3>**
+ **<h3 align="center">🚀 I'm a Computer Science student and a versatile programming generalist. I enjoy diving into frontend, backend, and OOP. I'm always eager to learn and tackle challenges across various domains of software development. Currently, I'm seeking a Summer 2025 Co-op opportunity to contribute my skills and grow through real-world experiences.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Jigsaw Puzzle x Gacha Mobile Game in Flutter 🧩**
+- 💼 I'm currently working on: **Jigsaw Puzzle x Gacha Game 🧩**
 - 🌱 I'm currently learning: **Power BI 📊**
 - 💬 Ask me about: **Specialty Coffee ☕**
 - ⚡ Fun fact: **I like reading philosophy books📖**
