@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Jigsaw Puzzle x Gacha Game 🧩**
-- 🌱 I'm currently learning: **Power BI 📊**
+- 💼 I'm currently working on: **Cross-Platform Mobile Travel Plan App**
+- 🌱 I'm currently learning: **Machine Learning**
 - 💬 Ask me about: **Specialty Coffee ☕**
-- ⚡ Fun fact: **I like reading philosophy books📖**
+- ⚡ Fun fact: **I like reading philosophy 📖**
 - 📂 Portfolio: **<a href="https://taef.ca" target="_blank">https://taef.ca</a>👨‍💻**
 
  **<h3 align="center">Skills</h3>**
