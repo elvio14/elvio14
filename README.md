@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="28" alt="SQLite" style="margin-right: 4px">
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="28" alt="Flutter" style="margin-right: 4px"> 
+<!-- <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="28" alt="Flutter" style="margin-right: 4px">  -->
 <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="28" alt="Figma" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> 
