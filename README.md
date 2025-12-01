@@ -15,7 +15,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Cross-Platform Mobile Travel Plan App ✈️**
+- 💼 I'm currently working on: **Customizable Terminal with Emoji Input in Rust 💻**
 - 🌱 I'm currently learning: **Machine Learning, OS, Azure Cloud ☁️**
 - 💬 Ask me about: **Specialty Coffee ☕**
 - ⚡ Fun fact: **I like classical music 🎼**
