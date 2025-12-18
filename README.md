@@ -15,10 +15,10 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Customizable Terminal with Emoji Input in Rust 💻**
-- 🌱 I'm currently learning: **Machine Learning, OS, Azure Cloud ☁️**
+- 💼 I'm currently working on: **Sigmaterm: Colorful customizable Linux Terminal emulator in Rust 💻**
+- 🌱 I'm currently learning: **Machine Learning, OS, AWS Cloud ☁️**
 - 💬 Ask me about: **Specialty Coffee ☕**
-- ⚡ Fun fact: **I like classical music 🎼**
+- ⚡ Fun fact: **I'm taking Cognitive Science Minor 🧠**
 - 📂 Portfolio: **<a href="https://taef.ca" target="_blank">https://taef.ca</a>👨‍💻**
 
  **<h3 align="left">GitHub Stats</h3>**
